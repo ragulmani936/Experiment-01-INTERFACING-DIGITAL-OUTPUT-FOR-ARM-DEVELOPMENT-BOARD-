@@ -163,7 +163,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
  ### ON:
 
- ![img1]()
+ ![img1](https://github.com/ragulmani936/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/on.jpg)
 
  ### OFF:
  ![img2]()
